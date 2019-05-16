@@ -9,7 +9,7 @@ email_port = 587 #port for email server- see ReadMe on github
 password = "1130Jto04" #your email password
 msg = "SAMIRA SALIM" #your txt message
 text_amount = 100 #amount sent
-target_email = "5736731465@pm.sprint.com" #target number. must be in email form- see ReadMe on github
+target_email = "5739990763@mms.att.net" #target number. must be in email form- see ReadMe on github
 wait = 1 #seconds in between messages
 #END CONFIG
 
