@@ -7,9 +7,9 @@ email_provider = 'smtp.gmail.com' #server for your email- see ReadMe on github
 email_address = "momy1582@gmail.com" #your email
 email_port = 587 #port for email server- see ReadMe on github
 password = "1130Jto04" #your email password
-msg = "stopa me fore" #your txt message
+msg = "samira salim" #your txt message
 text_amount = 100 #amount sent
-target_email = "5739990763@mms.att.net" #target number. must be in email form- see ReadMe on github
+target_email = "5738649655@mms.att.net" #target number. must be in email form- see ReadMe on github
 wait = 1 #seconds in between messages
 #END CONFIG
 
